@@ -1,0 +1,1 @@
+streamlit run "C:\Users\91959\Desktop\PROJECT\ELITE\MULTIPLE DISEASE PREDICTION\mdp.py"
